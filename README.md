@@ -1,16 +1,37 @@
-# pic_in_pic
+# 📺 Flutter Floating Video Player
 
-A new Flutter project.
+Hi there 👋🏾
 
-## Getting Started
+This project demonstrates how to build a **native floating video player** in Flutter. It enables users to **continue watching a video in a movable mini-window** while interacting with other parts of the application.
 
-This project is a starting point for a Flutter application.
+> 🎯 Fully built with Flutter — **no external packages** were used for the floating window behavior.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎥 Demo 1
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Floating video demo 1](assets/demo1.gif)
+
+## 🎥 Demo 2
+
+![Floating video demo 2](assets/demo2.gif)
+
+---
+
+## 🚀 Features
+
+- 📱 Draggable floating video player  
+- 🔄 Smooth transition between fullscreen and mini mode  
+- ❌ Dismiss mini-player easily   
+- ⚙️ 100% native Flutter — no external floating window package
+
+---
+
+## 🧱 Tech Stack
+
+- Flutter
+- `Stack`, `Positioned`, `GestureDetector, ...` for custom floating behavior
+- `video_player`
+
+---
+
