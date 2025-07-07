@@ -14,7 +14,7 @@ This project demonstrates how to build a **native floating video player** in Flu
 
 ## 🎥 Demo 2
 
-![Floating video demo 2](assets/videos/demo1.gif)
+![Floating video demo 2](assets/videos/demo2.gif)
 
 ---
 
